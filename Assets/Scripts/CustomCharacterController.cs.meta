@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8a7de53aad6243641abee1358fed4e17
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - torch: {instanceID: 0}
+  - gun: {instanceID: 0}
+  - characterUp: {fileID: 6083771287208914990, guid: fbccee14f024a8d4786ef7c51d2b4ab4, type: 3}
+  - characterDown: {fileID: 1677178980689337604, guid: 45f481b159a963349a32cf229668d90a, type: 3}
+  - characterLeft: {fileID: 4555373421203539478, guid: ca8f63f01caff3a44a5bc173acf00840, type: 3}
+  - characterRight: {fileID: 5128741592700866951, guid: e4b1543e4292d1f468f2e0f631f6fee0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
